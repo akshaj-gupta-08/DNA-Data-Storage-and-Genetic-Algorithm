@@ -1,4 +1,4 @@
-# DNA and GA Lab
+# DNA Data Storage and Genetic Algorithm
 
 An interactive lab about **storing data in DNA** and **genetic algorithms** — and what happens
 when you point one at the other. Everything runs in the browser: no server, no database, and
@@ -34,8 +34,8 @@ You need **Node.js 20 or newer** (built and tested on Node 24) and **npm**.
 
 ```bash
 # 1. get the code
-git clone https://github.com/aryan123pro/DNA-and-GA-Lab.git
-cd DNA-and-GA-Lab
+git clone https://github.com/akshaj-gupta-08/DNA-Data-Storage-and-Genetic-Algorithm.git
+cd DNA-Data-Storage-and-Genetic-Algorithm
 
 # 2. install dependencies
 npm install
