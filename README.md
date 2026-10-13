@@ -4,9 +4,9 @@ An interactive lab about **storing data in DNA** and **genetic algorithms** — 
 when you point one at the other. Everything runs in the browser: no server, no database, and
 no biological DNA is ever synthesised.
 
-Built by **Aryan Doifode (C157), Vignesh Borkar (C134), Sharva Debre (C149) and Akshaj Gupta
-(C169)** — B.Tech Computer Engineering, 1st semester 2026, Division C — alongside our
-presentation *DNA based storage systems and genetic algorithms*.
+Built by **Akshaj Gupta, Aryan Doifode, Vignesh Borkar, Sharva Debre**
+— B.Tech Computer Engineering, 1st semester 2026, Mukesh Patel School of Technology Management & Engineering, Mumbai
+— alongside our presentation *DNA based storage systems and genetic algorithms*.
 
 ---
 
